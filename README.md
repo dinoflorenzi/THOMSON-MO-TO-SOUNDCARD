@@ -5,4 +5,3 @@ I have designed and built two different sound cards based on two different sound
 One sound card based on PSG SN76489AN sound chip, the second based on OPLL YM2413 sound chip.<br/>
 https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/SN76489AN-MOTO-SOUND-CARD<br/>
 https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/YM2413-MOTO-SOUND-CARD<br/>
-![](https://it.wikipedia.org/wiki/Olivetti_Prodest_PC_128#/media/File:MO6.jpg)
