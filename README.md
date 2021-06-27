@@ -18,7 +18,7 @@ The SN76489AN first chip selection is based on its simple architecture, 8 bit bu
 The YM2413 second chip selection is also based on its simple architecture, 8 bit bus, nine channels, two write addresses to generates sound with hardware instruments and rythems.<br/>
 ## SOFTWARE TOOLS
 [Kicad](https://www.kicad.org/) and [Freerounting](https://freerouting.org/) to develop schematics and pcb.<br/>
-Myself modified DCMOTO emulator with the sound chip drivers to simulate cards and develop/debug playback routines (Unmodified version http://dcmoto.free.fr/emulateur/index.html)<br/>
+A myself modified DCMOTO emulator with the sound chip drivers to simulate cards and develop/debug playback routines (Unmodified version http://dcmoto.free.fr/emulateur/index.html)<br/>
 ## RESOURCES
 https://en.wikipedia.org/wiki/Texas_Instruments_SN76489<br/>
 https://en.wikipedia.org/wiki/Yamaha_YM2413<br/>
