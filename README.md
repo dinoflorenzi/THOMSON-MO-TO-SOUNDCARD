@@ -15,7 +15,7 @@ Thomson computers have an expansion port with the main computer signals, data bu
 ## SOUND CHIP SELECTION CRITERION
 The SN76489AN first chip selection is based on its simple architecture, 8 bit bus, four channels, up to two write sequences to generates sound or noise.<br/>
 The YM2413 second chip selection is also based on its simple architecture, 8 bit bus, nine channels, two write addresses to generates sound with hardware instruments and rythems.<br/>
-Single board develepments are better described to the links below<br/>
+Single board develepments are better described to the links below or wiki section<br/>
 https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/SN76489AN-MOTO-SOUND-CARD<br/>
 https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/YM2413-MOTO-SOUND-CARD<br/>
 ## SOFTWARE TOOLS
