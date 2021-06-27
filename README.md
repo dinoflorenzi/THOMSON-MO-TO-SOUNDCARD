@@ -16,6 +16,9 @@ Thomson computers have an expansion port with the main computer signals, data bu
 ## SOFTWARE TOOLS
 Kicad and Freerounting to develop schematics and pcb (https://www.kicad.org/  - https://freerouting.org/)<br/>
 Myself modified DCMOTO emulator with sound chip drivers to simulate cards and develop/debug playback routines (Unmodified version http://dcmoto.free.fr/emulateur/index.html)<br/>
+## SOUND CHIP SELECTION CRITERION
+The SN76489AN first chip selection is based on its simple architecture, 8 bit bus, four channels, up to two write sequences to generates sound or noise.<br/>
+The YM2413 second chip selection is also based on its simple architecture, 8 bit bus, nine channels, two write addresses to generates sound with hardware instruments and rythems.<br/>
 ## RESOURCES
 https://en.wikipedia.org/wiki/Texas_Instruments_SN76489<br/>
 https://en.wikipedia.org/wiki/Yamaha_YM2413<br/>
