@@ -2,7 +2,7 @@
 
 # Attention, this project is still in the prototype state.
 # Only the previos versions made have been tested only on PC 128 OLIVETTI PRODEST.
-# The last versions with minimal changes and corrections are not yet built.
+# The last versions with minimal changes and corrections are not yet built and then tested.
 
 ## PROJECT OVERVIEW
 This is a project to build a secondary sound card expansion for PC 128 OLIVETTI PRODEST HOME COMPUTER.<br/>
