@@ -7,3 +7,7 @@ One sound card is based on PSG SN76489AN sound chip, the second is based on OPLL
 Also i have coded the ASM 6809 routines to play sound demos.<br/>
 https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/SN76489AN-MOTO-SOUND-CARD<br/>
 https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/YM2413-MOTO-SOUND-CARD<br/>
+# RESOURCES
+https://en.wikipedia.org/wiki/Texas_Instruments_SN76489<br/>
+https://en.wikipedia.org/wiki/Yamaha_YM2413<br/>
+http://dcmoto.free.fr/<br/>
