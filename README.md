@@ -10,7 +10,8 @@ https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/YM2413-MOTO-SOUND-C
 ## START POINT
 Thomson computers have an expansion port with the main computer signals, data bus, address bus, chip select, master clock, and analog sound input that is mixed with the main sound generator<br/>
 The main sound generator is based on 6bit dac that fully commits the cpu countinuosly upadating the sound samples.<br/>
-![](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/Expansion_port.jpg)
+Because of that there was the need to develop a secondary sound card based on specific spind chip.<br/>
+![](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/Expansion_port.jpg)<br/>
 ## RESOURCES
 https://en.wikipedia.org/wiki/Texas_Instruments_SN76489<br/>
 https://en.wikipedia.org/wiki/Yamaha_YM2413<br/>
