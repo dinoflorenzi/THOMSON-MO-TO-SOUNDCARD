@@ -20,8 +20,8 @@ Thomson computers have an expansion port with the main computer signals, data bu
 The SN76489AN first chip selection is based on its simple architecture, 8 bit bus, four channels, up to two write sequences to generates sound or noise.<br/>
 The YM2413 second chip selection is also based on its simple architecture, 8 bit bus, nine channels, two write addresses to generates sound with hardware instruments and rythems.<br/>
 Single board develepments are better described to the links below or wiki section<br/>
-https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/SN76489AN-MOTO-SOUND-CARD<br/>
-https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/YM2413-MOTO-SOUND-CARD<br/>
+[SN76489AN SOUND CARD DEVELOPMENT](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/SN76489AN-MOTO-SOUND-CARD)<br/>
+[YM2413 SOUND CARD DEVELOPMENT](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/YM2413-MOTO-SOUND-CARD)<br/>
 ## SOFTWARE TOOLS
 [Kicad](https://www.kicad.org/) and [Freerounting](https://freerouting.org/) to develop schematics and pcb.<br/>
 A myself modified DCMOTO emulator with the sound chip drivers to simulate cards and develop/debug playback routines (Unmodified version http://dcmoto.free.fr/emulateur/index.html)<br/>
