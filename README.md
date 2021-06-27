@@ -1,6 +1,10 @@
 # PC128 OLIVETTI PRODEST - THOMSON MO/TO SOUNDCARD
-## PROJECT OVERVIEW
 
+#Attention
+#this project is still in the prototype state.
+#The versions made have been tested only on PC 128 OLIVETTI PRODEST.
+
+## PROJECT OVERVIEW
 This is a project to build a secondary sound card expansion for PC 128 OLIVETTI PRODEST HOME COMPUTER.<br/>
 I have designed and built two different sound cards based on two different sound chip.<br/>
 One sound card is based on PSG SN76489AN sound chip, the second is based on OPLL YM2413 sound chip.<br/>
