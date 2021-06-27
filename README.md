@@ -26,4 +26,6 @@ http://dcmoto.free.fr/<br/>
 https://vgmrips.net/packs/<br/>
 https://www.smspower.org/Music/VGMs<br/>
 http://atjs.mbnet.fi/mc6809/<br/>
+http://map.grauw.nl/resources/sound/texas_instruments_sn76489an.pdf<br/>
+http://map.grauw.nl/resources/sound/yamaha_ym2413_ds.pdf<br/>
 
