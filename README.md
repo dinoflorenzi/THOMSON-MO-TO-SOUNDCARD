@@ -1,8 +1,8 @@
 # PC128 OLIVETTI PRODEST - THOMSON MO/TO SOUNDCARD
 
-#Attention
-#this project is still in the prototype state.
-#The versions made have been tested only on PC 128 OLIVETTI PRODEST.
+# Attention
+# this project is still in the prototype state.
+# The versions made have been tested only on PC 128 OLIVETTI PRODEST.
 
 ## PROJECT OVERVIEW
 This is a project to build a secondary sound card expansion for PC 128 OLIVETTI PRODEST HOME COMPUTER.<br/>
