@@ -20,3 +20,7 @@ Myself modified DCMOTO emulator with sound chip drivers to simulate cards and de
 https://en.wikipedia.org/wiki/Texas_Instruments_SN76489<br/>
 https://en.wikipedia.org/wiki/Yamaha_YM2413<br/>
 http://dcmoto.free.fr/<br/>
+https://vgmrips.net/packs/<br/>
+https://www.smspower.org/Music/VGMs<br/>
+http://atjs.mbnet.fi/mc6809/<br/>
+
