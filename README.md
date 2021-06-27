@@ -1,8 +1,8 @@
 # PC128 OLIVETTI PRODEST - THOMSON MO/TO SOUNDCARD
 
-# Attention
-# this project is still in the prototype state.
-# The versions made have been tested only on PC 128 OLIVETTI PRODEST.
+# Attention, this project is still in the prototype state.
+# Only the previos versions made have been tested only on PC 128 OLIVETTI PRODEST.
+# The last versions with minimal changes and corrections are not yet built.
 
 ## PROJECT OVERVIEW
 This is a project to build a secondary sound card expansion for PC 128 OLIVETTI PRODEST HOME COMPUTER.<br/>
@@ -12,7 +12,7 @@ Also i have coded the ASM 6809 routines to play sound demos.<br/>
 
 ## HOW IT STARTED
 Thomson computers have sound generator simply based on 6bit dac that fully commits the cpu countinuosly updating the sound samples. During sound streaming the computer can't do anything else.<br/>
-Because of that there was the need to develop a secondary sound card based on specific sound chip that generates sound by itself, only programming your own registers.<br/>
+Beucause of that there was the need to develop a secondary sound card based on specific sound chip that generates sound by itself, only programming your own registers.<br/>
 ## START POINT
 Thomson computers have an expansion port with the main computer signals, data bus, address bus, chip select, master clock, and analog sound input that is mixed with the main sound generator.<br/>
 ![](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/Expansion_port.jpg)<br/>
