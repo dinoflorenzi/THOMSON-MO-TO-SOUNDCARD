@@ -9,7 +9,7 @@ https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/SN76489AN-MOTO-SOUN
 https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/wiki/YM2413-MOTO-SOUND-CARD<br/>
 ## START POINT
 Thomson computers have an expansion port with the main computer signals, data bus, address bus, chip select, master clock, and analog sound input that is mixed with the main sound generator<br/>
-The main sound generator is based on 6bit dac that fully commits the cpu.<br/>
+The main sound generator is based on 6bit dac that fully commits the cpu countinuosly upadating the sound samples.<br/>
 ![](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/Expansion_port.jpg)
 ## RESOURCES
 https://en.wikipedia.org/wiki/Texas_Instruments_SN76489<br/>
