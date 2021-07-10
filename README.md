@@ -26,6 +26,7 @@ Single board develepments are better described to the links below or wiki sectio
 By properly setting card jumpers it chamges the address. In this way you can mount two sound cards working  simultaneously.<br/>
 The interconnection card is a third-party project.<br/>
 The assembly of the cards in this photo is the precious contribution of Benoit Rousseau. He help me to debug the cards on Thomson TO target.<br/>
+<img src="https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3648.JPG" width=50% height=50%>
 ![](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3648.JPG)<br/>
 ![](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3650.JPG)<br/>
 ![](https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3651.JPG)<br/>
