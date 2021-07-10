@@ -26,9 +26,9 @@ Single board develepments are better described to the links below or wiki sectio
 By properly setting card jumpers it chamges the address. In this way you can mount two sound cards working  simultaneously.<br/>
 The interconnection card is a third-party project.<br/>
 The assembly of the cards in this photo is the precious contribution of Benoit Rousseau. He help me to debug the cards on Thomson TO target.<br/>
-<img src="https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3648.JPG" width=40%>
-<img src="https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3650.JPG" width=40%>
-<img src="https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3651.JPG" width=40%>
+<img src="https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3648.JPG" width=35%>
+<img src="https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3650.JPG" width=35%>
+<img src="https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3651.JPG" width=35%><br/>
 ## SOFTWARE TOOLS
 [Kicad](https://www.kicad.org/) and [Freerounting](https://freerouting.org/) to develop schematics and pcb.<br/>
 A myself modified DCMOTO emulator with the sound chip drivers to simulate cards and develop/debug playback routines (Unmodified version http://dcmoto.free.fr/emulateur/index.html)<br/>
