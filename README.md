@@ -5,7 +5,7 @@
 # The last versions with minimal changes and corrections are under test.
 
 ## PROJECT OVERVIEW
-This is a project to build a secondary sound card expansion for PC 128 OLIVETTI PRODEST HOME COMPUTER.<br/>
+This is a project is born to build a secondary sound card expansion for my PC 128 OLIVETTI PRODEST HOME COMPUTER.<br/>
 I have designed and built two different sound cards based on two different sound chip.<br/>
 One sound card is based on PSG SN76489AN sound chip, the second is based on OPLL YM2413 sound chip.<br/>
 Also i have coded the ASM 6809 routines to play sound demos.<br/>
