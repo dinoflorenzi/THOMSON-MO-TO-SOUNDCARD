@@ -1,6 +1,6 @@
 # PC128 OLIVETTI PRODEST - THOMSON MO/TO SOUNDCARD
 
-# Attention, this project is still in the prototype state.
+# Attention, YM2413 sound card project is still in the prototype state.
 # Only the previous versions made have been tested only on PC 128 OLIVETTI PRODEST.
 # The last versions with minimal changes and corrections are under test.
 
