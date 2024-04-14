@@ -3,6 +3,7 @@
 # Attention, YM2413 sound card project is still in the prototype state.
 # Only the previous versions made have been tested only on PC 128 OLIVETTI PRODEST.
 # The last versions with minimal changes and corrections are under test.
+# Otherwise, there is an all-in-one version, developed and built by Sebastien that fully works.
 
 ## PROJECT OVERVIEW
 This is a project is born to build a secondary sound card expansion for my PC 128 OLIVETTI PRODEST HOME COMPUTER.<br/>
@@ -31,7 +32,7 @@ The assembly of the cards in this photo is the precious contribution of Benoit R
 <img src="https://github.com/dinoflorenzi/THOMSON-MO-TO-SOUNDCARD/blob/main/COMMON/IMG_3651.JPG" width=30%><br/>
 ## SOFTWARE TOOLS
 [Kicad](https://www.kicad.org/) and [Freerounting](https://freerouting.org/) to develop schematics and pcb.<br/>
-DCMOTO emulator fully emulated both sound cards (http://dcmoto.free.fr/emulateur/index.html)<br/>
+DCMOTO emulator fully emulates both sound cards (http://dcmoto.free.fr/emulateur/index.html)<br/>
 ## RESOURCES
 https://en.wikipedia.org/wiki/Texas_Instruments_SN76489<br/>
 https://en.wikipedia.org/wiki/Yamaha_YM2413<br/>
