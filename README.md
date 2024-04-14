@@ -3,7 +3,7 @@
 # Attention, YM2413 sound card project is still in the prototype state.
 # Only the previous versions made have been tested only on PC 128 OLIVETTI PRODEST.
 # The last versions with minimal changes and corrections are under test.
-# Otherwise, there is an all-in-one version, developed and built by Sebastien that fully works.
+# Otherwise, there is an all-in-one version, developed and built by Sebastien that fully works (https://github.com/Sebastus1976/Amadeus).
 
 ## PROJECT OVERVIEW
 This is a project is born to build a secondary sound card expansion for my PC 128 OLIVETTI PRODEST HOME COMPUTER.<br/>
